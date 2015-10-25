@@ -1,0 +1,10 @@
+
+*.csproj
+
+*.userprefs
+
+*.sln
+
+Library
+Temp
+obj
